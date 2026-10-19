@@ -1,0 +1,1 @@
+DATABASE_URL=postgresql://postgres:postgres_dev@localhost:5432/order_management
